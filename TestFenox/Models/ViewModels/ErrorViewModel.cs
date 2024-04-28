@@ -1,4 +1,4 @@
-namespace TestFenox.Models
+namespace TestFenox.Models.ViewModels
 {
     public class ErrorViewModel
     {

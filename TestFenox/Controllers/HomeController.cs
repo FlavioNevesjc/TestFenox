@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using TestFenox.Models;
+using TestFenox.Models.ViewModels;
 
 namespace TestFenox.Controllers
 {
@@ -14,6 +14,21 @@ namespace TestFenox.Controllers
         }
 
         public IActionResult Index()
+        {
+            return View();
+        }
+
+        public IActionResult Color()
+        {
+            return View();
+        }
+
+        public IActionResult Fuel()
+        {
+            return View();
+        }
+
+        public IActionResult Vehicle()
         {
             return View();
         }

@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|c:\\users\\fsnn\\projetos\\testes\\12-fenox\\testfenox\\testfenox\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|solutionrelative:testfenox\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|c:\\users\\fsnn\\projetos\\testes\\12-fenox\\testfenox\\testfenox\\persistence\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|solutionrelative:testfenox\\persistence\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|c:\\users\\fsnn\\projetos\\testes\\12-fenox\\testfenox\\testfenox\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|solutionrelative:testfenox\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|c:\\users\\fsnn\\projetos\\testes\\12-fenox\\testfenox\\testfenox\\controllers\\fuelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|solutionrelative:testfenox\\controllers\\fuelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|c:\\users\\fsnn\\projetos\\testes\\12-fenox\\testfenox\\testfenox\\views\\fuel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|solutionrelative:testfenox\\views\\fuel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|c:\\users\\fsnn\\projetos\\testes\\12-fenox\\testfenox\\testfenox\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|solutionrelative:testfenox\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|c:\\users\\fsnn\\projetos\\testes\\12-fenox\\testfenox\\testfenox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|solutionrelative:testfenox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|c:\\users\\fsnn\\projetos\\testes\\12-fenox\\testfenox\\testfenox\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|solutionrelative:testfenox\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|c:\\users\\fsnn\\projetos\\testes\\12-fenox\\testfenox\\testfenox\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|solutionrelative:testfenox\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|c:\\users\\fsnn\\projetos\\testes\\12-fenox\\testfenox\\testfenox\\models\\fuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|solutionrelative:testfenox\\models\\fuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|c:\\users\\fsnn\\projetos\\testes\\12-fenox\\testfenox\\testfenox\\persistence\\colordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|solutionrelative:testfenox\\persistence\\colordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|c:\\users\\fsnn\\projetos\\testes\\12-fenox\\testfenox\\testfenox\\persistence\\fueldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600CD390-3D58-4F33-86A5-BEB1D4F80D1F}|TestFenox\\TestFenox.csproj|solutionrelative:testfenox\\persistence\\fueldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TestFenox\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TestFenox\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T01:36:44.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TestFenox\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TestFenox\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwB8AAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T01:07:56.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FuelController.cs",
+              "DocumentMoniker": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Controllers\\FuelController.cs",
+              "RelativeDocumentMoniker": "TestFenox\\Controllers\\FuelController.cs",
+              "ToolTip": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Controllers\\FuelController.cs",
+              "RelativeToolTip": "TestFenox\\Controllers\\FuelController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T01:06:47.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Program.cs",
+              "RelativeDocumentMoniker": "TestFenox\\Program.cs",
+              "ToolTip": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Program.cs",
+              "RelativeToolTip": "TestFenox\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T01:03:27.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Views\\Fuel\\Index.cshtml",
+              "RelativeDocumentMoniker": "TestFenox\\Views\\Fuel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Views\\Fuel\\Index.cshtml",
+              "RelativeToolTip": "TestFenox\\Views\\Fuel\\Index.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowBsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T01:05:48.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\appsettings.json",
+              "RelativeDocumentMoniker": "TestFenox\\appsettings.json",
+              "ToolTip": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\appsettings.json",
+              "RelativeToolTip": "TestFenox\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-28T01:04:07.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Models\\Color.cs",
+              "RelativeDocumentMoniker": "TestFenox\\Models\\Color.cs",
+              "ToolTip": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Models\\Color.cs",
+              "RelativeToolTip": "TestFenox\\Models\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T00:55:03.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ColorDAL.cs",
+              "DocumentMoniker": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Persistence\\ColorDAL.cs",
+              "RelativeDocumentMoniker": "TestFenox\\Persistence\\ColorDAL.cs",
+              "ToolTip": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Persistence\\ColorDAL.cs",
+              "RelativeToolTip": "TestFenox\\Persistence\\ColorDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T00:49:00.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Fuel.cs",
+              "DocumentMoniker": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Models\\Fuel.cs",
+              "RelativeDocumentMoniker": "TestFenox\\Models\\Fuel.cs",
+              "ToolTip": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Models\\Fuel.cs",
+              "RelativeToolTip": "TestFenox\\Models\\Fuel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T00:38:53.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "TestFenox\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Models\\Vehicle.cs",
+              "RelativeToolTip": "TestFenox\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T00:27:35.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Persistence\\Connection.cs",
+              "RelativeDocumentMoniker": "TestFenox\\Persistence\\Connection.cs",
+              "ToolTip": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Persistence\\Connection.cs",
+              "RelativeToolTip": "TestFenox\\Persistence\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:42:07.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FuelDAL.cs",
+              "DocumentMoniker": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Persistence\\FuelDAL.cs",
+              "RelativeDocumentMoniker": "TestFenox\\Persistence\\FuelDAL.cs",
+              "ToolTip": "C:\\Users\\fsnn\\Projetos\\Testes\\12-Fenox\\TestFenox\\TestFenox\\Persistence\\FuelDAL.cs",
+              "RelativeToolTip": "TestFenox\\Persistence\\FuelDAL.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAIwCMAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:34:48.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
